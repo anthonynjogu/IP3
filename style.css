@@ -1,14 +1,16 @@
-body .welcome {
+body .container {
     background-image: url('background/h_img.jpg');
     background-size: cover;
+    flex-direction: column;
+    align-items: inherit;
     font-family: sans-serif;
     height: 110vh;
 }
-.welcome img {
+.container img {
     margin-top: 16%;
     margin-left: 45%;
 }
-.welcome p {
+.container p {
     margin-left: 40%;
     font-size: 50px;
     margin-top: 2%;
@@ -30,6 +32,19 @@ body .welcome {
     margin-top:-60px;
     margin-left: 60px;
 }
+.about h3{
+    margin-left: 40%;
+}
+.about p {
+    color:black;
+    text-align: center;
+    margin-left: 0%;
+    font-size: 11px;
+    font-weight: 400;
+    margin : 40px;
+    line-height: 1.5;
+}
+
 
 
 
