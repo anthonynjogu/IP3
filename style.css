@@ -1,0 +1,10 @@
+body .welcome {
+    background-image: url('background/h_img.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+.welcome img {
+    margin-top: 17%;
+    margin-left: 45%;
+
+}
