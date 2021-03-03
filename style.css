@@ -39,10 +39,10 @@ body .container {
     color:black;
     text-align: center;
     margin-left: 0%;
-    font-size: 11px;
+    font-size: 13px;
     font-weight: 400;
-    margin : 40px;
-    line-height: 1.5;
+    margin: 30px;
+    line-height: 0.1;
 }
 
 
@@ -129,6 +129,4 @@ body .container {
 
 
 
-    color: azure;
-    
-}
+
